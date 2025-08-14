@@ -1,8 +1,8 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
-import Home from "./components/Home"
-import Paste from "./components/Paste"
-import ViewPaste from "./components/ViewPaste"
-import Navbar from "./components/Navbar"
+import Home from "./Components/Home"
+import Paste from "./Components/Paste"
+import ViewPaste from "./Components/ViewPaste"
+import Navbar from "./Components/Navbar"
 
 
 const router = createBrowserRouter(
